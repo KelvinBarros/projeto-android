@@ -230,5 +230,9 @@ footer a{
 
 footer a:hover{
     color: var(--cor1);
+    text-decoration: underline;
 }
 
+footer img{
+    margin: 15px 10px 5px;
+}
